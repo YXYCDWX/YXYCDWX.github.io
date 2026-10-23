@@ -1,0 +1,11 @@
+# Hugo 构建产物
+public/
+resources/_gen/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.log
+
+# 临时文件
+*.zip

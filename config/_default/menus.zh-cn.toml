@@ -1,0 +1,43 @@
+# -- 主导航菜单 --
+
+[[main]]
+  name = "技术文档"
+  pageRef = "docs"
+  weight = 10
+
+[[main]]
+  name = "教学视频"
+  pageRef = "videos"
+  weight = 20
+
+[[main]]
+  name = "成果展示"
+  pageRef = "projects"
+  weight = 30
+
+[[main]]
+  name = "标签"
+  pageRef = "tags"
+  weight = 40
+
+[[main]]
+  name = "关于我"
+  pageRef = "about"
+  weight = 50
+
+# -- 页脚菜单 --
+
+[[footer]]
+  name = "技术文档"
+  pageRef = "docs"
+  weight = 10
+
+[[footer]]
+  name = "教学视频"
+  pageRef = "videos"
+  weight = 20
+
+[[footer]]
+  name = "成果展示"
+  pageRef = "projects"
+  weight = 30
