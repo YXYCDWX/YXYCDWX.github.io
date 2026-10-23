@@ -2,7 +2,7 @@
 title: "目标检测工程实践：低置信度阈值与颜色后处理"
 description: "置信度阈值调优、OpenCV 颜色后处理与滑窗跟踪参数的工程经验"
 date: 2026-10-20
-tags: ["目标检测", "OpenCV", "工程实践"]
+tags: ["YOLO", "目标检测", "OpenCV", "工程实践"]
 categories: ["算法工程"]
 ---
 

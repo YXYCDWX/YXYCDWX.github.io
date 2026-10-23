@@ -1,5 +1,5 @@
 # -- 站点核心配置 --
-title = "YXY 的技术博客"
+title = "研习异的技术博客"
 
 theme = "blowfish"
 baseURL = "https://yxycdwx.github.io/"
