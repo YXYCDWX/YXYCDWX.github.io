@@ -1,0 +1,37 @@
+/* Academy scheme — 近黑背景 + 低饱和科研青绿（对齐 Viridis/Okabe-Ito 色系与低饱和学术配色原则） */
+:root {
+  --color-neutral: 255, 255, 255;
+  /* Cool gray（深端逼近参考站 #07090A 近黑） */
+  --color-neutral-50: 246, 249, 249;
+  --color-neutral-100: 237, 240, 241;
+  --color-neutral-200: 226, 232, 233;
+  --color-neutral-300: 200, 208, 211;
+  --color-neutral-400: 156, 166, 170;
+  --color-neutral-500: 107, 117, 122;
+  --color-neutral-600: 55, 63, 67;
+  --color-neutral-700: 32, 38, 41;
+  --color-neutral-800: 20, 24, 26;
+  --color-neutral-900: 10, 12, 13;
+  /* Muted teal（低饱和青绿，浅端对应参考站 #9FE2D2 薄荷） */
+  --color-primary-50: 240, 253, 250;
+  --color-primary-100: 220, 245, 240;
+  --color-primary-200: 187, 233, 222;
+  --color-primary-300: 153, 216, 204;
+  --color-primary-400: 115, 190, 176;
+  --color-primary-500: 84, 160, 146;
+  --color-primary-600: 58, 128, 116;
+  --color-primary-700: 42, 98, 89;
+  --color-primary-800: 29, 70, 63;
+  --color-primary-900: 18, 45, 41;
+  /* Muted slate blue（学术灰蓝，次级强调） */
+  --color-secondary-50: 245, 247, 249;
+  --color-secondary-100: 230, 235, 240;
+  --color-secondary-200: 203, 213, 223;
+  --color-secondary-300: 169, 186, 201;
+  --color-secondary-400: 132, 155, 174;
+  --color-secondary-500: 96, 125, 148;
+  --color-secondary-600: 71, 98, 119;
+  --color-secondary-700: 52, 74, 91;
+  --color-secondary-800: 36, 52, 65;
+  --color-secondary-900: 22, 33, 42;
+}

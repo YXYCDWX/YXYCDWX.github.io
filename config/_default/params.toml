@@ -1,6 +1,6 @@
 # -- 主题参数 --
-# 配色方案：neon（赛博霓虹，暗黑科技感），完整列表见 assets/css/schemes/
-colorScheme = "neon"
+# 配色方案：academy（自定义科研配色：近黑背景 + 低饱和青绿，定义见 assets/css/schemes/academy.css）
+colorScheme = "academy"
 defaultAppearance = "dark"   # 默认暗色
 autoSwitchAppearance = false # 不随系统切换，保持暗黑美学
 
@@ -17,8 +17,7 @@ mainSections = ["docs"]
 disableImageOptimization = false
 disableTextInHeader = false
 
-# 全站默认背景图（文章/列表 hero 与首页背景共用）
-defaultBackgroundImage = "img/background.jpg"
+# 纯色暗黑背景（对齐参考站，不使用背景图；hero 用基础样式）
 
 fingerprintAlgorithm = "sha512"
 
@@ -59,7 +58,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showDateUpdated = false
   showAuthor = true
   showHero = true
-  heroStyle = "background"     # 文章头部背景大图 + 模糊，暗黑质感
+  heroStyle = "basic"          # 基础样式，纯色暗黑
   layoutBackgroundBlur = true
   layoutBackgroundHeaderSpace = true
   showBreadcrumbs = false
@@ -85,7 +84,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [list]
   showHero = true
-  heroStyle = "background"
+  heroStyle = "basic"          # 基础样式，纯色暗黑
   layoutBackgroundBlur = true
   layoutBackgroundHeaderSpace = true
   showBreadcrumbs = false
