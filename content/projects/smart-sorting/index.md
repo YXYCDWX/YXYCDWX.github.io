@@ -3,6 +3,7 @@ title: "智能分拣：背景差分检测与 VLM 语义识别系统"
 description: "中国大学生工程实践与创新能力大赛「智能+」工程创新赛道智能分拣赛项作品：OpenCV 背景差分 + 分水岭分割 + Ollama 本地多模态模型语义识别"
 tags: ["OpenCV", "Ollama", "VLM", "竞赛"]
 categories: ["竞赛项目"]
+featured_image: "featured.jpg"
 links:
   - name: "GitHub"
     url: "https://github.com/YXYCDWX"

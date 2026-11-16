@@ -3,6 +3,7 @@ title: "机械工程创新创意大赛：起重机视觉识别与串口决策系
 description: "国家级一等奖作品：龙门架式起重机装置上的 YOLO 识别、多帧三维积分决策与串口协议设计"
 tags: ["YOLO", "K230", "端侧部署", "竞赛"]
 categories: ["竞赛项目"]
+featured_image: "featured.jpg"
 ---
 
 ## 获奖情况
