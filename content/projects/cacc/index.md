@@ -3,6 +3,7 @@ title: "CCF 算法能力大赛（CACC）区域赛"
 description: "CCF 主办的算法能力大赛区域赛参赛证明"
 tags: ["竞赛"]
 categories: ["竞赛项目"]
+featureimage: "cacc-banner.png"
 ---
 
 ## 赛事简介
