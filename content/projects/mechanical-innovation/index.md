@@ -4,6 +4,7 @@ description: "国家级一等奖作品：龙门架式起重机装置上的 YOLO 
 tags: ["YOLO", "K230", "端侧部署", "竞赛"]
 categories: ["竞赛项目"]
 featured_image: "featured.jpg"
+featureimage: "featured.jpg"
 ---
 
 ## 获奖情况

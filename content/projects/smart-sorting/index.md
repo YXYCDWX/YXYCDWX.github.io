@@ -4,6 +4,7 @@ description: "中国大学生工程实践与创新能力大赛「智能+」工�
 tags: ["OpenCV", "Ollama", "VLM", "竞赛"]
 categories: ["竞赛项目"]
 featured_image: "featured.jpg"
+featureimage: "featured.jpg"
 links:
   - name: "GitHub"
     url: "https://github.com/YXYCDWX"

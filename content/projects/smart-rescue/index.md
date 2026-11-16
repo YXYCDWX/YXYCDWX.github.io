@@ -4,6 +4,7 @@ description: "中国大学生工程实践与创新能力大赛「智能+」工�
 tags: ["YOLO", "OpenCV", "端侧部署", "竞赛"]
 categories: ["竞赛项目"]
 featured_image: "robot-front.webp"
+featureimage: "robot-front.webp"
 ---
 
 ## 任务概述
